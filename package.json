@@ -1,0 +1,23 @@
+{
+  "name": "rotas-parametrizadas",
+  "version": "1.0.0",
+  "description": "Exercício de rotas parametrizadas do playground. Aprendendo e exercitando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isocabp/rotas-parametrizadas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isocabp/rotas-parametrizadas/issues"
+  },
+  "homepage": "https://github.com/isocabp/rotas-parametrizadas#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
